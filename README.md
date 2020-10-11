@@ -1,12 +1,16 @@
-# Sobre Mi
+# Full Stack Developer
 
-Desarrollador web con enfoque en el desarrollo de aplicaciones modernas. Competente en los ecosistemas de **Python, JavaScript y Wordpress**. Entusiasta de la computación en la nube. 
+Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante proyectos independientes, así como de colaborar como parte de un equipo productivo.
 
-Especialista en **Comercio electrónico, automatización y conversión web.** 
+## Area de conocimientos
 
-Programador Multidisciplinar capacitado para **Requisitar, Analizar, Diseñar, Desarrollar, Probar y Desplegar**. Domino un conjunto de habilidades diversas y prometedoras. Experimentado con las últimas herramientas y procedimientos de desarrollo moderno.
-
-Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación, uso la **tecnología de objetos** donde se puede y donde se permite usarla. Capaz de autogestionarse efectivamente durante proyectos independientes, así como colaborar como parte de un equipo productivo.
+- Competente en **Python, JavaScript, Wordpress y el ecosistema de node**.
+- Especialista en **Comercio electrónico, automatización y conversión web.**
+- Buena experiencia tecnica en desarrollo de **microservicios y aplicaciones modernas.**  
+- Capacitado para **Requisitar, Analizar, Diseñar, Desarrollar, Probar y Desplegar**.
+- Experimentado con las últimas tecnologías y procedimientos de desarrollo moderno.
+- Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación.
+- Trabajo con sistemas **linux/Unix** y **AWS** en varios de sus servicios más importantes **(EC2, RDS, S3).** 
 
 ## Preguntas frecuentes
 
