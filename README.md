@@ -8,10 +8,6 @@ Programador Multidisciplinar capacitado para **Requisitar, Analizar, Diseñar, D
 
 Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación, uso la **tecnología de objetos** donde se puede y donde se permite usarla. Capaz de autogestionarse efectivamente durante proyectos independientes, así como colaborar como parte de un equipo productivo.
 
-## ¿Está considerando contratarme?
-
-A lo largo de esta hoja le mostraré mis **habilidades y proyectos** asi como tambien intentare responder las **preguntas más frecuentes** que me encuentro en procesos de entrevista.
-
 ## Preguntas frecuentes
 
 En la sección **sobre mi** le respondí la pregunta más común **¿Cuénteme un poco sobre su experiencia y habilidades?** sin embargo si usted desea profundizar más en mi experiencia debido a que necesita una tecnología específica le conduciré por el camino correcto.
