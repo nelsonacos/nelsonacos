@@ -42,11 +42,21 @@ Estos **ORM** le dan soporte a las bases de datos más comunes **MySql, Postgres
 - Me gusta escribir **código asíncrono en Javascript**, es extremadamente ideal para manejar la asincronía. 
 - Wordpress tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar **casi cualquier cosa hecha en wordpress** y adaptarlas a su proyecto.
 
-### ¿Tiene experiencia en desarrollo basado en capas?
+### ¿Conocimiento de programación orientada a objetos?
+
+Si, las características principales de la programación orientada a objetos son la **abstracción, encapsulación, modularidad y jerarquía**, sin embargo si desea profundizar más en mis conocimiento de la tecnología de objetos puede echar vistazo al siguiente **repositorio**.
+
+  
+### ¿Conocimientos de patrones de diseño y buenas prácticas?
+
+Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar **elementos y piezas de códigos reutilizables** para dar **solucion a problemas recurrentes.**
+
+
+### ¿Experiencia en desarrollo basado en capas?
 
 Si, desarrollo basado en 3 capas, aplicando el patrón arquitectónico **MVC**. **Django** por ejemplo respeta el patrón de diseño **MVC**.
 
-### ¿Tiene conocimientos de seguridad informática?
+### ¿Conocimientos de seguridad informática?
 
 Si desde hacer auditorías, information gathering, manejo y uso de herramientas de pre y post explotación en **kali linux**, así como también cumplir con buenas prácticas en el desarrollo como Sanitización de cadenas,  evitar Sql Injection, Cross Site scripting, encriptacion de contraseñas, ocultación de la información.    
 
@@ -65,12 +75,3 @@ Lo primero en mi lista en este momento es decantarme por un framework del frontE
 ### ¿Cómo te ves en 5 años?
 
 Podría irme por la tangente y  contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, **me gusta ensuciarme las manos con código de programación** aunque definitivamente puedo liderar me gustaría en los próximos años ser un **Senior Developer** Me gustaría  construir cosas interesantes.
-
-### ¿Tiene conocimiento de programación orientada a objetos?
-
-Si, las características principales de la programación orientada a objetos son la **abstracción, encapsulación, modularidad y jerarquía**, sin embargo si desea profundizar más en mis conocimiento de la tecnología de objetos puede echar vistazo al siguiente **repositorio**.
-
-  
-### ¿Tiene conocimientos de patrones de diseño y buenas prácticas?
-
-Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar **elementos y piezas de códigos reutilizables** para dar **solucion a problemas recurrentes.**
