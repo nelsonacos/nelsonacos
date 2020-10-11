@@ -1,6 +1,8 @@
 # Sobre Mi
 
-Informático. **Desarrollador web** con enfoque en el desarrollo de aplicaciones modernas. Competente en los ecosistemas de **Python, JavaScript y Wordpress**. Entusiasta de la computación en la nube, Especialista en **Comercio electrónico, automatización de negocios digitales y conversión web.** 
+Desarrollador web con enfoque en el desarrollo de aplicaciones modernas. Competente en los ecosistemas de **Python, JavaScript y Wordpress**. Entusiasta de la computación en la nube. 
+
+Especialista en **Comercio electrónico, automatización de negocios digitales y conversión web.** 
 
 Programador Multidisciplinar capacitado para **Requisitar, Analizar, Diseñar, Desarrollar, Probar y Desplegar**. Domino un conjunto de habilidades diversas y prometedoras. Experimentado con las últimas herramientas y procedimientos de desarrollo moderno.
 
