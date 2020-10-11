@@ -51,7 +51,20 @@ Si, estoy convencido de la necesidad de programar con buenas prácticas, princip
 
 ### ¿Que sabes de seguridad informática?
 
-Si desde hacer auditorías, information gathering, manejo y uso de herramientas de pre y post explotación en **kali linux**, así como también cumplir con buenas prácticas en el desarrollo como Sanitización de cadenas,  evitar Sql Injection, Cross Site scripting, encriptacion de contraseñas, ocultación de la información.   
+Desde hacer auditorías y uso de herramientas en **Kali Linux**, hasta pasar esta lista de verificacion:
+
+- Autenticación
+- Gestión de sesiones
+- Control de acceso
+- Manejo de entrada de datos maliciosos
+- Criptografía en el almacenamiento
+- Gestión y registro de errores
+- Protección de datos
+- Configuración de seguridad HTTP
+- Controles Maliciosos
+- Protección de archivos y recursos
+
+Así como también entiendo y comprendo como se lleva a cabo la comunicacion en **red** y como vulnerar el protocolo **ARP** y a partir de alli generar ataques de **Man in The Middle.**   
 
 ### ¿Cual es tu enfoque en el desarrollo de aplicaciones?
 
