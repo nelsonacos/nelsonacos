@@ -64,10 +64,7 @@ Lo primero en mi lista en este momento es decantarme por un framework del frontE
 
 ### ¿Cómo te ves en 5 años?
 
-Podría irme por la tangente y  contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, **me gusta ensuciarme las manos con código de programación** aunque definitivamente puedo liderar me gustaría en los próximos años ser un **Senior Developer** no me gusta recomendar solo las tecnologías que conozco **Me gusta recomendar y abordar proyectos con la tecnología ideal** en los próximos años **Me gustaría  construir cosas interesantes.**
-
-
-**Nota:** Me gustaría agregar **2 preguntas** que no son tan comunes pero son temas de los cuales **A mi me gusta hablar.** El Auge del **desarrollo con framework** pareciera estar haciendo olvidar el tema sin embargo **todos los framework modernos** llevan estos temas **inmersos entre su código** y es precisamente el motivo de  su éxito. **Las buenas prácticas y principios de programación** son el gran motivo por el cual la elección del framework para desarrollar se ha vuelto **una decisión fundamental.**
+Podría irme por la tangente y  contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, **me gusta ensuciarme las manos con código de programación** aunque definitivamente puedo liderar me gustaría en los próximos años ser un **Senior Developer** Me gustaría  construir cosas interesantes.
 
 ### ¿Tiene conocimiento de programación orientada a objetos?
 
@@ -76,4 +73,4 @@ Si, las características principales de la programación orientada a objetos son
   
 ### ¿Tiene conocimientos de patrones de diseño y buenas prácticas?
 
-Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar **elementos y piezas de códigos reutilizables** ya probadas como **soluciones a problemas recurrentes**.
+Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar **elementos y piezas de códigos reutilizables** para dar **solucion a problemas recurrentes.**
