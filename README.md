@@ -8,11 +8,10 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 - Competente en **Python** y el ecosistema de **Django.**
 - Buena experiencia en **JavaScript** y el ecosistema de **nodeJs.**
 - Buen dominio de **Php** y el ecosistema de **Wordpress.**
-- Experiencia en desarrollo de **microservicios.** y la arquitectura **REST.**  
-- Buen dominio de **Unit Testing**.
+- Experiencia en desarrollo de **microservicios.** y la arquitectura **REST.**
 - Experimentado con las **últimas tecnologías** y procedimientos de **desarrollo moderno.**
 - Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación.
-- Trabajo con sistemas **linux / Unix** en los servicios más importantes de **AWS (EC2, RDS, S3).** 
+- Trabajo con sistemas **linux / Unix** en los servicios más importantes de **AWS (EC2, RDS, S3).**
 
 ## Preguntas frecuentes
 
