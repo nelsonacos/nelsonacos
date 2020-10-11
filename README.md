@@ -36,9 +36,9 @@ Estos **ORM** le dan soporte a las bases de datos más comunes **MySql, Postgres
 
 ### ¿En qué lenguaje te sientes más fuerte?
 
-- Disfruto escribir **código en python**, es elegante, elocuente, poderoso y muy versátil. 
-- Me gusta escribir **código asíncrono en Javascript**, es extremadamente ideal para manejar la asincronía. 
-- Wordpress tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar **casi cualquier cosa hecha en wordpress** y adaptarlas a su proyecto.
+- Disfruto escribir código en **python**, es elegante, elocuente, poderoso y muy versátil. 
+- Javascrit es ideal para manejar la **asincronía**, y a mi me gusta escribir utilizando **Ajax.** 
+- Wordpress tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar casi cualquier cosa en este **CMS** y adaptarlas a su proyecto.
 
 ### ¿Conocimiento de programación orientada a objetos?
 
@@ -51,15 +51,15 @@ Si, estoy convencido de la necesidad de programar con buenas prácticas, princip
 
 ### ¿Conocimientos de seguridad informática?
 
-Si desde hacer auditorías, information gathering, manejo y uso de herramientas de pre y post explotación en **kali linux**, así como también cumplir con buenas prácticas en el desarrollo como Sanitización de cadenas,  evitar Sql Injection, Cross Site scripting, encriptacion de contraseñas, ocultación de la información.    
+Si desde hacer auditorías, information gathering, manejo y uso de herramientas de pre y post explotación en **kali linux**, así como también cumplir con buenas prácticas en el desarrollo como Sanitización de cadenas,  evitar Sql Injection, Cross Site scripting, encriptacion de contraseñas, ocultación de la información.   
 
 ### ¿Cual es tu enfoque en el desarrollo de aplicaciones?
 
-Dependiendo del proyecto y del objetivo pero me gusta el **desarrollo de aplicaciones modernas**, desarrollo basado en apis, **desacoplar el backend del frontEnd** para conseguir **aplicaciones modulares, robustas, escalables y flexibles**.
+Dependiendo del proyecto y del objetivo pero me gusta el desarrollo de **aplicaciones modernas**. Desarrollo basado en apis, desacoplar el backend del frontEnd para conseguir aplicaciones **modulares, robustas, escalables y flexibles**.
 
 ### ¿Qué te gusta desarrollar en tu tiempo libre?
 
-Definitivamente me gusta la **Automatización,Web Scraping y seguridad informática** Tengo la impresión de que estas 3 habilidades juntas pueden conseguir cosas impresionantes, **la intrusión de los Bots es el presente continuo y el futuro** si le agrega una cuarta habilidad como **Inteligencia Artificial** creo que esto va a desbordar nuestra profesión. 
+Definitivamente me gusta la **Automatización, Web Scraping y seguridad informática** Tengo la impresión de que estas 3 habilidades juntas pueden conseguir cosas impresionantes. La intrusión de los **Bots** es el presente continuo y el futuro.
 
 ### ¿Qué tecnologías te gustaría aprender?
 
@@ -67,4 +67,4 @@ Lo primero en mi lista en este momento es decantarme por un framework del frontE
 
 ### ¿Cómo te ves en 5 años?
 
-Podría irme por la tangente y  contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, **me gusta ensuciarme las manos con código de programación** aunque definitivamente puedo liderar me gustaría en los próximos años ser un **Senior Developer** Me gustaría  construir cosas interesantes.
+Podría irme por la tangente y  contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, me gusta ensuciarme las manos con código de programación, En los próximos años quiero ser un **Senior Developer** Me gustaría  construir cosas interesantes.
