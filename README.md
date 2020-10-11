@@ -27,13 +27,6 @@ En la primera sección resumí mi **experiencia tecnica.** Si desea profundizar 
 
 - [wordpress](https://github.com/nelsonacos/wordpress/)
 
-### ¿Experiencia trabajando con metodologías ágiles?
-
-Si, conozco el [Desarrollo Agil](https://github.com/nelsonacos/desarrollo-agil/), asi como tambien conozco otras metodologías importantes como [Rational Unified Process ( RUP )](https://github.com/nelsonacos/rational-unified-process/) 
-
-### ¿Qué servicios ha utilizado en la nube?
-
-Principalmente utilizo Aws [ec2](https://aws.amazon.com/es/ec2/), [s3](https://aws.amazon.com/es/s3/), [lamda](https://aws.amazon.com/es/lambda/), [elastic beanstalk](https://aws.amazon.com/es/elasticbeanstalk/), [cloudfront](https://aws.amazon.com/es/cloudfront/), [lightsail](https://aws.amazon.com/es/lightsail/), para el stack habitual de trabajo sin embargo en otros proyectos puede utilizar [digital ocean](https://www.digitalocean.com/), [siteground](https://es.siteground.com/), [netlify](https://www.netlify.com/), [cloudinary](https://cloudinary.com/), [mlab](https://mlab.com/), [firebase](https://firebase.google.com/).
 
 ### ¿Qué bases de datos ha utilizado?
 
@@ -55,11 +48,6 @@ Si, las características principales de la programación orientada a objetos son
 ### ¿Conocimientos de patrones de diseño y buenas prácticas?
 
 Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar **elementos y piezas de códigos reutilizables** para dar **solucion a problemas recurrentes.**
-
-
-### ¿Experiencia en desarrollo basado en capas?
-
-Si, desarrollo basado en 3 capas, aplicando el patrón arquitectónico **MVC**. **Django** por ejemplo respeta el patrón de diseño **MVC**.
 
 ### ¿Conocimientos de seguridad informática?
 
