@@ -49,7 +49,7 @@ Si, las características principales de la programación orientada a objetos son
 
 Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar elementos y piezas de códigos reutilizables para dar solucion a problemas recurrentes.
 
-### ¿Conocimientos de seguridad informática?
+### ¿Que sabes de seguridad informática?
 
 Si desde hacer auditorías, information gathering, manejo y uso de herramientas de pre y post explotación en **kali linux**, así como también cumplir con buenas prácticas en el desarrollo como Sanitización de cadenas,  evitar Sql Injection, Cross Site scripting, encriptacion de contraseñas, ocultación de la información.   
 
