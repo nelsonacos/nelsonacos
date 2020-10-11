@@ -15,7 +15,7 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 - Dominio de sistema de control de versiones **Git / Github.** 
 - Trabajo con sistemas **linux / Unix** en los servicios más importantes de **AWS (EC2, RDS, S3).**
 - Dominio de **Metodologias Agiles** y otras metodologias importantes como **Rational Unified Process (RUP)**
-- Experiencia trabajando con contenedores **Docker.**
+- Experiencia en desarrollo trabajando con contenedores **Docker.**
 
 ## Preguntas frecuentes
 
