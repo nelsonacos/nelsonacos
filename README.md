@@ -67,4 +67,4 @@ Lo primero en mi lista en este momento es decantarme por un framework del frontE
 
 ### ¿Cómo te ves en 5 años?
 
-Podría irme por la tangente y  contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, me gusta ensuciarme las manos con código de programación, En los próximos años quiero ser un **Senior Developer** Me gustaría  construir cosas interesantes.
+Podría evadir la pregunta y contestar algo como **un poco calvo y canas :)**  pero aún me queda mucho por crecer, me gusta ensuciarme las manos con código de programación, En los próximos años quiero ser un **Senior Developer** Me gustaría  construir cosas interesantes.
