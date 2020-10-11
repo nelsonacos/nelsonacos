@@ -12,7 +12,7 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 - Capacitado para **Requisitar, Analizar, Diseñar, Desarrollar, Probar y Desplegar**.
 - Experimentado con las **últimas tecnologías** y procedimientos de **desarrollo moderno.**
 - Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación.
-- Trabajo con sistemas **linux / Unix** y **AWS** en varios de sus servicios más importantes **(EC2, RDS, S3).** 
+- Trabajo con sistemas **linux / Unix** en varios de los servicios más importantes de **AWS(EC2, RDS, S3).** 
 
 ## Preguntas frecuentes
 
