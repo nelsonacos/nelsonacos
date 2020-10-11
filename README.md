@@ -30,24 +30,24 @@ En la primera sección resumí mi **experiencia tecnica.** Si desea profundizar 
 
 ### ¿Qué bases de datos ha utilizado?
 
-En el pasado los programadores solían programar **drivers específicos para impresoras** hoy esto **ya no es relevante**, lo mismo está ocurriendo  con las bases de datos **aprende la sintaxis de un **ORM** y use la base de datos que desee.** En Python puedo usar [SqlAlchemy](https://github.com/nelsonacos/python/tree/master/sqlalchemy/) en Javascript puedo usar [TypeOrm](https://typeorm.io/). 
+En el pasado los programadores solían programar **drivers** específicos para **impresoras** hoy esto ya no es relevante, lo mismo está ocurriendo con las bases de datos aprendo la sintaxis de un **ORM** y me despreocupo de la base de datos. En Python puedo usar [SqlAlchemy](https://github.com/nelsonacos/python/tree/master/sqlalchemy/) en Javascript puedo usar [TypeOrm](https://typeorm.io/). 
 
-Estos **ORM** le dan soporte a las bases de datos más comunes **MySql, Postgres, Sqlite, Oracle, Sql Server**. Sin embargo si su pregunta es con cual sintaxis específica estoy familiarizado mi respuesta es **MySql, Postgress, Sqlite y MongoDB.** 
+Si su pregunta es con cual sintaxis específica estoy familiarizado mi respuesta es **MySql, Postgress, Sqlite y MongoDB.** 
 
 ### ¿En qué lenguaje te sientes más fuerte?
 
 - Disfruto escribir código en **python**, es elegante, elocuente, poderoso y muy versátil. 
 - Javascrit es ideal para manejar la **asincronía**, y a mi me gusta escribir utilizando **Ajax.** 
-- Wordpress tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar casi cualquier cosa en este **CMS** y adaptarlas a su proyecto.
+- Wordpress tiene baterias incluidas no es necesario **reinventar la rueda** usted puede encontrar casi cualquier cosa en este **CMS** y adaptarlas a su proyecto.
 
 ### ¿Conocimiento de programación orientada a objetos?
 
 Si, las características principales de la programación orientada a objetos son la **abstracción, encapsulación, modularidad y jerarquía**, sin embargo si desea profundizar más en mis conocimiento de la tecnología de objetos puede echar vistazo al siguiente **repositorio**.
 
   
-### ¿Conocimientos de patrones de diseño y buenas prácticas?
+### ¿Hace uso de buenas prácticas al programar?
 
-Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar **elementos y piezas de códigos reutilizables** para dar **solucion a problemas recurrentes.**
+Si, estoy convencido de la necesidad de programar con buenas prácticas, principios como [SOLID](https://es.wikipedia.org/wiki/SOLID), [GRASP](https://es.wikipedia.org/wiki/GRASP), [KISS](https://es.wikipedia.org/wiki/Principio_KISS), [DRY](https://es.wikipedia.org/wiki/No_te_repitas), [YAGNI](https://https://es.wikipedia.org/wiki/YAGNI) y los patrones de diseño del famoso libro [Design Patterns De Erich Gamma](https://www.amazon.com/-/es/Erich-Gamma/dp/0201633612) me enseñaron la necesidad de utilizar elementos y piezas de códigos reutilizables para dar solucion a problemas recurrentes.
 
 ### ¿Conocimientos de seguridad informática?
 
