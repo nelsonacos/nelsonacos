@@ -10,7 +10,7 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 - Capacitado para **Requisitar, Analizar, Diseñar, Desarrollar, Probar y Desplegar**.
 - Experimentado con las últimas tecnologías y procedimientos de desarrollo moderno.
 - Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación.
-- Trabajo con sistemas **linux/Unix** y **AWS** en varios de sus servicios más importantes **(EC2, RDS, S3).** 
+- Trabajo con sistemas **linux / Unix** y **AWS** en varios de sus servicios más importantes **(EC2, RDS, S3).** 
 
 ## Preguntas frecuentes
 
@@ -38,15 +38,13 @@ Estos **ORM** le dan soporte a las bases de datos más comunes **MySql, Postgres
 
 ### ¿En qué lenguaje te sientes más fuerte?
 
-No tengo una **navaja suiza** sin embargo disfruto escribir **código en python**, es elegante, elocuente, poderoso y muy versátil. 
-
-Me gusta escribir **código asíncrono en Javascript**, es extremadamente ideal para manejar la asincronía. 
-
-**Wordpress** tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar **casi cualquier cosa hecha en wordpress** y adaptarlas a su proyecto.
+- Disfruto escribir **código en python**, es elegante, elocuente, poderoso y muy versátil. 
+- Me gusta escribir **código asíncrono en Javascript**, es extremadamente ideal para manejar la asincronía. 
+- Wordpress tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar **casi cualquier cosa hecha en wordpress** y adaptarlas a su proyecto.
 
 ### ¿Tiene experiencia en desarrollo basado en capas?
 
-Si desarrollo basado en el diseño de arquitectura de 3 capas, aplicando el patrón arquitectónico **MVC**. **Django** por ejemplo respeta el patrón de diseño **MVC**.
+Si, desarrollo basado en 3 capas, aplicando el patrón arquitectónico **MVC**. **Django** por ejemplo respeta el patrón de diseño **MVC**.
 
 ### ¿Tiene conocimientos de seguridad informática?
 
@@ -54,7 +52,7 @@ Si desde hacer auditorías, information gathering, manejo y uso de herramientas 
 
 ### ¿Cual es tu enfoque en el desarrollo de aplicaciones?
 
-Dependiendo del proyecto y del objetivo pero definitivamente me gusta el **desarrollo de aplicaciones modernas**, desarrollo basado en apis, **desacoplar el backend del frontEnd** para conseguir **aplicaciones modulares, robustas, escalables y flexibles**.
+Dependiendo del proyecto y del objetivo pero me gusta el **desarrollo de aplicaciones modernas**, desarrollo basado en apis, **desacoplar el backend del frontEnd** para conseguir **aplicaciones modulares, robustas, escalables y flexibles**.
 
 ### ¿Qué te gusta desarrollar en tu tiempo libre?
 
