@@ -7,7 +7,7 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 - Especialista en **Comercio electrónico, automatización y conversión web.**
 - Buen dominio general de tecnologías del **frontEnd.**
 - Competente en **Python** y el ecosistema de **Django.**
-- Buena experiencia en **JavaScript** y el ecosistema de **nodeJs.**
+- Buena experiencia en **JavaScript** y el ecosistema de **nodeJS.**
 - Buen dominio de **Php** y el ecosistema de **Wordpress.**
 - Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación.
 - Experiencia en desarrollo basado en capas y la arquitectura **MVC.**
@@ -59,11 +59,11 @@ Dependiendo del proyecto y del objetivo pero me gusta el desarrollo de **aplicac
 
 ### ¿Qué te gusta desarrollar en tu tiempo libre?
 
-Definitivamente me gusta la **Automatización, Web Scraping y seguridad informática** Tengo la impresión de que estas 3 habilidades juntas pueden conseguir cosas impresionantes. La intrusión de los **Bots** es el presente continuo y el futuro.
+Definitivamente me gusta la **automatización, web Scraping y seguridad informática** Tengo la impresión de que estas 3 habilidades juntas pueden conseguir cosas impresionantes. La intrusión de los **Bots** es el presente continuo y el futuro.
 
 ### ¿Qué tecnologías te gustaría aprender?
 
-Lo primero en mi lista en este momento es decantarme por un framework del frontEnd, **React Js parece ser una buena elección.**
+Lo primero en mi lista en este momento es decantarme por un framework del frontEnd, **React JS** parece ser una buena elección.
 
 ### ¿Cómo te ves en 5 años?
 
