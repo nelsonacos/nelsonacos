@@ -10,23 +10,17 @@ Adoptó la programación orientada a objetos **( POO )** como principal paradigm
 
 ## Preguntas frecuentes
 
-En la sección **sobre mi** le respondí la pregunta más común **¿Cuénteme un poco sobre su experiencia y habilidades?** sin embargo si usted desea profundizar más en mi experiencia debido a que necesita una tecnología específica le conduciré por el camino correcto.
+En la primera sección le respondí la pregunta más común **¿Cuénteme un poco sobre su experiencia y habilidades?** sin embargo si usted desea profundizar más en mi experiencia debido a que necesita una tecnología específica le conduciré por el camino correcto.
 
-Si está buscando información sobre **Python** eche un vistazo a este repositorio de [trucos, tutoriales y proyectos en python.](https://github.com/nelsonacos/python/) 
+- [python](https://github.com/nelsonacos/python/) 
 
-Si está buscando información sobre **Javascript** eche un vistazo a este repositorio de [trucos, tutoriales y proyectos en javascript.](https://github.com/nelsonacos/javascript/)
+- [javascript](https://github.com/nelsonacos/javascript/)
 
-Si está buscando información sobre **Wordpress** eche un vistazo a este repositorio de [trucos, tutoriales y proyectos en wordpress.](https://github.com/nelsonacos/wordpress/)
+- [wordpress](https://github.com/nelsonacos/wordpress/)
 
 ### ¿Experiencia trabajando con metodologías ágiles?
 
 Si, conozco el [Desarrollo Agil](https://github.com/nelsonacos/desarrollo-agil/), asi como tambien conozco otras metodologías importantes como [Rational Unified Process ( RUP )](https://github.com/nelsonacos/rational-unified-process/) 
-
-
-### ¿Desarrolla utilizando sistemas de control de versiones?
-
-Si, utilizo git y github para todos mis proyectos siguiente el siguiente [work flow](https://github.com/nelsonacos/git-flow/) 
-.
 
 ### ¿Qué servicios ha utilizado en la nube?
 
@@ -34,11 +28,9 @@ Principalmente utilizo Aws [ec2](https://aws.amazon.com/es/ec2/), [s3](https://a
 
 ### ¿Qué bases de datos ha utilizado?
 
-En el pasado los programadores solían programar **drivers específicos para impresoras** hoy esto **ya no es relevante**, lo mismo está ocurriendo  con las bases de datos **aprende la sintaxis de un **ORM** y use la base de datos que desee!** en Python puedo usar [SqlAlchemy](https://github.com/nelsonacos/python/tree/master/sqlalchemy/) en Javascript puede usar [TypeOrm](https://typeorm.io/) Estos **ORM** le dan soporte a las bases de datos más comunes, **MySql, Postgres, Sqlite, Oracle, Sql Server**. Sin embargo si su pregunta es con cual sintaxis específica estoy familiarizado mi respuesta es **MySql, Postgress, Sqlite y MongoDB.** 
+En el pasado los programadores solían programar **drivers específicos para impresoras** hoy esto **ya no es relevante**, lo mismo está ocurriendo  con las bases de datos **aprende la sintaxis de un **ORM** y use la base de datos que desee.** En Python puedo usar [SqlAlchemy](https://github.com/nelsonacos/python/tree/master/sqlalchemy/) en Javascript puedo usar [TypeOrm](https://typeorm.io/). 
 
-### ¿Sabe construir procedimientos almacenados y hacer cosas avanzadas en bases de datos?
-
-Si puedo construir procedimientos almacenados, hacer rollbacks, transacciones, triggers.
+Estos **ORM** le dan soporte a las bases de datos más comunes **MySql, Postgres, Sqlite, Oracle, Sql Server**. Sin embargo si su pregunta es con cual sintaxis específica estoy familiarizado mi respuesta es **MySql, Postgress, Sqlite y MongoDB.** 
 
 ### ¿En qué lenguaje te sientes más fuerte?
 
@@ -46,11 +38,11 @@ No tengo una **navaja suiza** sin embargo disfruto escribir **código en python*
 
 Me gusta escribir **código asíncrono en Javascript**, es extremadamente ideal para manejar la asincronía. 
 
-Dependiendo del proyecto **no es necesario reinventar la rueda**, **Wordpress** tiene baterías incluidas, usted puede encontrar **casi cualquier cosa en wordpress** y adaptarlas a su proyecto. 
+**Wordpress** tiene baterias incluidas **No es necesario reinventar la rueda** usted puede encontrar **casi cualquier cosa hecha en wordpress** y adaptarlas a su proyecto.
 
 ### ¿Tiene experiencia en desarrollo basado en capas?
 
-Si desarrollo basado en el diseño de arquitecturas de 3 capas, aplicando el patrón arquitectónico **MVC**. **Django** por ejemplo respeta el patrón de diseño **MVC**.
+Si desarrollo basado en el diseño de arquitectura de 3 capas, aplicando el patrón arquitectónico **MVC**. **Django** por ejemplo respeta el patrón de diseño **MVC**.
 
 ### ¿Tiene conocimientos de seguridad informática?
 
