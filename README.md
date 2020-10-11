@@ -5,7 +5,7 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 ## Area de conocimientos
 
 - Especialista en **Comercio electrónico, automatización y conversión web.**
-- Buen dominio general de tecnologias del **frontEnd.**
+- Buen dominio general de tecnologías del **frontEnd.**
 - Competente en **Python** y el ecosistema de **Django.**
 - Buena experiencia en **JavaScript** y el ecosistema de **nodeJs.**
 - Buen dominio de **Php** y el ecosistema de **Wordpress.**
