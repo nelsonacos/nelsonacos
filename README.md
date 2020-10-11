@@ -16,7 +16,7 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 
 ## Preguntas frecuentes
 
-En la primera sección le respondí la pregunta más común **¿Cuénteme un poco sobre su experiencia y habilidades?** sin embargo si usted desea profundizar más en mi experiencia debido a que necesita una tecnología específica le conduciré por el camino correcto.
+En la primera sección resumí mi **experiencia tecnica.** Si desea profundizar más en mis **habilidades** debido a que necesita una tecnología específica le conduciré por el camino correcto:
 
 - [python](https://github.com/nelsonacos/python/) 
 
