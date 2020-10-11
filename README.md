@@ -7,8 +7,8 @@ Programador Multidisciplinar, Capaz de autogestionarse efectivamente durante pro
 - Especialista en **Comercio electrónico, automatización y conversión web.**
 - Competente en **Python** y el ecosistema de **Django.**
 - Buena experiencia en **JavaScript** y el ecosistema de **nodeJs.**
-- Buen Dominio de **Php** y el ecosistema de **Wordpress**
-- Buena experiencia tecnica en desarrollo de **microservicios.**  
+- Buen Dominio de **Php** y el ecosistema de **Wordpress.**
+- Experiencia tecnica en desarrollo de **microservicios.** y la arquitectura **REST.**  
 - Capacitado para **Requisitar, Analizar, Diseñar, Desarrollar, Probar y Desplegar**.
 - Experimentado con las **últimas tecnologías** y procedimientos de **desarrollo moderno.**
 - Adoptó la programación orientada a objetos **( POO )** como principal paradigma de programación.
