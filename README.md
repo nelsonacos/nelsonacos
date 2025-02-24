@@ -13,18 +13,18 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nelsonacos)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/nelsonacos)
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/nelsonacos)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/nelsonacos)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/nelsonacos)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/nelsonacos)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/nelsonacos)
 [![Next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/nelsonacos)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/nelsonacos)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/nelsonacos)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/nelsonacos)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/nelsonacos)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/nelsonacos)
