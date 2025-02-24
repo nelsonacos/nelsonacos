@@ -4,7 +4,7 @@
     <i>
         As I dive into an ocean of codes, my passion for ethical hacking, computer research, and web development intertwines in an endless journey of learning, where sharing knowledge and innovations propels my growth and enriches the technological community.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/desarrolladorpython">
+    <a href="https://www.linkedin.com/in/nelchar">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:nelson.acosta.web@gmail.com">
